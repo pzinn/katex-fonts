@@ -594,7 +594,6 @@ $map{cmti10} = {
     6 => 0x3A3,             # \Sigma
     [7,8] => 0x3A5,         # \Upsilon, \Phi
     [9,0xA] => 0x3A8,       # \Psi, \Omega
-    0x18 => 0xB8,           # \c, cedilla
 
     0x10 => 0x131,          # \imath (roman)
     0x11 => 0x237,          # \jmath (roman)
